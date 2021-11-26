@@ -1,3 +1,6 @@
+| ⚠ **WARNING**: This image is obsolete and has been superseded by [rubensa/ubuntu-tini-dev](https://github.com/rubensa/docker-ubuntu-tini-dev). |
+| --- |
+
 # Python 3 image for local development
 
 This image provides a Python 3 environment useful for local development purposes.
